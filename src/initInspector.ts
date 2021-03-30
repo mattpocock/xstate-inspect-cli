@@ -1,4 +1,4 @@
-import { inspect } from "@xstate/inspect";
+import { inspect } from "xstate-inspect-no-fast-stringify";
 import { interpret } from "xstate";
 
 inspect({

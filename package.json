@@ -1,11 +1,11 @@
 {
   "name": "xstate-inspect-cli",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "author": "Matt Pocock",
   "license": "MIT",
   "bin": "src/index.js",
   "dependencies": {
-    "@xstate/inspect": "^0.4.1",
+    "xstate-inspect-no-fast-stringify": "0.0.1",
     "vite": "^2.1.4",
     "ws": "^7.4.4",
     "xstate": "^4.17.1"
