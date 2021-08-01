@@ -1,3 +1,5 @@
+> FYI! This lib has never worked! I have it public only to share for others to carry on this good fight. I may revisit this repo in the future.
+
 # What is the XState Inspector CLI?
 
 I wanted a quick way to open an `@xstate/inspect` panel targeting a local file. By running a quick CLI command, you can target a single file with `vite`, build it with `esbuild`, and open it in the browser.
